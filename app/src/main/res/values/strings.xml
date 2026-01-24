@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">shifterup</string>
+    <string name="app_str_textview_login">Inicia sesión</string>
+    <string name="app_str_textview_mail">¿Cuál es tu correo electrónico?</string>
+    <string name="app_str_textview_mail_description">Introduce el correo electrónico asociado a tu cuenta Shifterup Project</string>
+    <string name="app_str_edittext_mail">Correo electrónico</string>
+    <string name="app_str_btn_next">Siguiente</string>
+    <string name="app_str_edittext_havent_account">¿Aún no tienes tu cuenta?</string>
+    <string name="app_str_btn_register">Registrate ya!</string>
+
+    <string name="app_str_textview_password">¿Cuál es tu contraseña?</string>
+    <string name="app_str_textview_password_description">Introduce la contraseña asociada a tu cuenta Shifterup Project</string>
+    <string name="app_str_edittext_password">Contraseña</string>
+    <string name="app_str_btn_login">Inicia sesión</string>
+
+    <string name="app_str_textview_name">¿Como te llamas?</string>
+    <string name="app_str_textview_name_description">Introduce tu nombre completo para poder inscribirte en nuestro equipo</string>
+    <string name="app_str_edittext_name">Nombre completo</string>
+
+    <string name="app_str_textview_mail_description_register">Introduce el correo electrónico al que te gustaría asociar tu cuenta Shifterup Project</string>
+
+    <string name="app_str_textview_password_register">¿Que contraseña deseas?</string>
+    <string name="app_str_textview_password_description_register">Introduce la contraseña con la que deseas acceder a tu cuenta Shifterup Project</string>
+
+    <string name="app_str_textview_repit_password_register">Repite tu contraseña</string>
+    <string name="app_str_textview_repit_password_description_register">Para mayor seguridad te pedimos que repitas la contraseña con la que deseas registrar tu cuenta Shifterup Project</string>
+    <string name="app_str_btn_register_register">Registrate</string>
+
+    <string name="app_str_textview_verification">Verifica tu correo electrónico</string>
+    <string name="app_str_textview_verification_description">Hemos enviado un enlace de verificación a tu email.</string>
+    <string name="app_str_textview_verification_description2">Por favor, pulsa en el enlace y espera aquí unos segundos. Esta pantalla se actualizará automáticamente.</string>
+
+</resources>
